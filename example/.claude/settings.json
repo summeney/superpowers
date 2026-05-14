@@ -1,0 +1,13 @@
+{
+  "enabledPlugins": {
+    "superpowers@superpowers-dev": true
+  },
+  "extraKnownMarketplaces": {
+    "superpowers-dev": {
+      "source": {
+        "source": "file",
+        "path": "/Users/mac/happy/code/fork/superpowers/.claude-plugin/marketplace.json"
+      }
+    }
+  }
+}
